@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Building machine learning models and deploying them via Flask for real-world applications, such as heart disease prediction and recommendation systems.<br><br>👯 I’m looking to collaborate on: AI/ML projects, especially in areas like data preprocessing, model optimization, and cloud deployment using AWS or Google Cloud.<br><br>🤝 I’m looking for help with: Improving my skills in advanced deep learning techniques, optimizing models for large-scale data, and implementing reinforcement learning.<br><br>🌱 I’m currently learning: Hyperparameter tuning, cloud computing for ML models, and advanced algorithms like reinforcement learning and neural networks.<br><br>💬 Ask me about: Python, machine learning, Flask deployment, and cloud-based solutions like AWS and Google Cloud.<br><br>⚡ Fun fact: I love exploring different datasets and uncovering patterns, but when I’m not coding, you might find me binge-watching sci-fi shows!
 
 
