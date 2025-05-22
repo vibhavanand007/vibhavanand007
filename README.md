@@ -10,16 +10,17 @@ AI/ML projects focused on **data preprocessing**, **model optimization**, **clou
 Advanced **deep learning**, **reinforcement learning**, **scaling ML systems**, and **generative AI workflows**.
 
 🌱 I’m currently learning:  
-- Hyperparameter tuning  
-- Cloud deployment of ML models (AWS/GCP)  
-- Reinforcement learning  
-- Data engineering and LangChain for LLMs
+- Advanced Python & Data Structures and Algorithms  
+- JavaScript, React.js, and the MERN stack  
+- Hyperparameter tuning & cloud deployment  
+- Reinforcement learning & LangChain  
+- Full-stack ML systems with GCP/AWS/Render
 
 💬 Ask me about:  
 Python, machine learning, Flask/Django deployment, data scraping (Selenium, BeautifulSoup), and cloud-based deployment (Render, GCP, AWS).
 
 ⚡ Fun fact:  
-When I'm not crunching data or optimizing models, you'll probably find me binging on sci-fi shows or experimenting with LLM agents.
+When I'm not coding or dissecting datasets, you'll probably find me binging on sci-fi shows or exploring fun side projects.
 
 ---
 
